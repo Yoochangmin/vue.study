@@ -6,7 +6,7 @@ vue_django 연동 :  https://leffept.tistory.com/287
 
 vue 기초 자료 : https://han-py.tistory.com/292
 
-django에서 vue.js 불러오기 <script src="https://unpkg.com/vue"></script>
+django에서 vue.js 불러오기 https://unpkg.com/vue
 
 vue 마우스이벤트 : https://uxgjs.tistory.com/119
 
